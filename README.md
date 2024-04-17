@@ -1,5 +1,7 @@
 # Dafabet Android System Requirements
 
+![Screenshot](https://github.com/Dafabet-app/Dafabet-apk/blob/main/dafabet-android-app-download_bcfb87234.jpg)
+
 Dafabet app is compatible with the vast majority of smartphones introduced in the previous 10 years. There may be brief delays on older devices, but accessing the app should not be a serious difficulty in the majority of situations.
 
 ## System Requirements
