@@ -16,8 +16,7 @@ There is also a chance that your device will ask for permission to download the 
 
 To download and install the Dafabet app, follow these steps:
 
-1. Click the right mouse button and select "Save as" from the menu: [2.12.2_dafabet.apk](https://github.com/Dafabet-app/Dafabet-apk/blob/main/2.12.2_dafabet.apk)
-2. Download on your device.
-3. Install the app on your smartphone by opening the installation file.
+1. Download [2.12.2_dafabet.apk](https://github.com/Dafabet-app/Dafabet-apk/blob/main/2.12.2_dafabet.apk) on your device.
+2. Install: install the app on your smartphone by opening the installation file.
 
 That’s all! The Dafabet app is now downloaded to your mobile device and ready to use. You can open it and sign in to your account, or create a new one if you are a newbie.
